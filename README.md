@@ -65,10 +65,11 @@ Pemain wajib mengolah bahan mentah menjadi masakan (seperti *Roasted Meat* pada 
 ### Fasilitas Penunjang Lainnya
 
 Selain toko, pemain juga dapat mengunjungi:
-![Blacksmith or Tavern](https://media.discordapp.net/attachments/1467032167543476246/1467035754575171697/Screenshot_2026-01-31_121200.png?ex=697eeb04&is=697d9984&hm=274594cf82208f6e781471a279dba5c06cc15201ca3db8f688f1b7e2d5ad8cc9&=&format=webp&quality=lossless&width=985&height=750)
 * **Blacksmith:** Tempat membeli senjata baru dengan berinteraksi pada lingkaran sihir di dekat etalase.
-![Blacksmith or Tavern](https://media.discordapp.net/attachments/1467032167543476246/1467035754260857047/Screenshot_2026-01-31_121012.png?ex=697eeb04&is=697d9984&hm=e8e98eca7ad9604f99dbd15c00989954b9c64122a054c391e2b1d4b7959b346e&=&format=webp&quality=lossless&width=976&height=750)
+![Blacksmith or Tavern](https://media.discordapp.net/attachments/1467032167543476246/1467035754575171697/Screenshot_2026-01-31_121200.png?ex=697eeb04&is=697d9984&hm=274594cf82208f6e781471a279dba5c06cc15201ca3db8f688f1b7e2d5ad8cc9&=&format=webp&quality=lossless&width=985&height=750)
+
 * **Tavern:** Hub sosial untuk merekrut anggota tim (*party*) tambahan.
+![Blacksmith or Tavern](https://media.discordapp.net/attachments/1467032167543476246/1467035754260857047/Screenshot_2026-01-31_121012.png?ex=697eeb04&is=697d9984&hm=e8e98eca7ad9604f99dbd15c00989954b9c64122a054c391e2b1d4b7959b346e&=&format=webp&quality=lossless&width=976&height=750)
 
 ---
 
