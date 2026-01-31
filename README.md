@@ -2,7 +2,27 @@
 
 ![Title Screen](https://media.discordapp.net/attachments/1467032167543476246/1467033579694329876/image.png?ex=697ee8fd&is=697d977d&hm=83c6b452232f67f7872870205769b09a0085b0bdda741d2ad2c5b3534201e5c6&=&format=webp&quality=lossless&width=1275&height=559)
 
+**[ITCH.IO](https://stevnath.itch.io/dungeon-dine-dash-astera)**
+
+---
 **Dungeon Dine & Dash: Astera** adalah permainan *Role-Playing Game* (RPG) berbasis giliran yang memadukan elemen eksplorasi *dungeon* klasik dengan simulasi manajemen ekonomi. Pemain akan mengendalikan karakter utama yang terjebak di dunia asing, di mana ia harus berburu monster, mengolah daging hasil buruan menjadi hidangan kuliner, dan membangun kekuatan tim untuk menaklukkan tantangan terbesar di Astera.
+
+### Game Engine
+Permainan ini dikembangkan menggunakan:
+* **RPG Maker MZ**
+
+### Tim Pengembang (Credits)
+Dibuat dengan penuh dedikasi oleh:
+* **Steven Nathanael**
+* **Putra Parlindungan**
+* **M. Nurulloh**
+* **M. Hafidz Putra**
+* **Joshua Natanael**
+
+
+---
+© 2026 Dungeon Dine & Dash: Astera Team.
+
 
 ---
 
@@ -31,13 +51,17 @@ Permainan dimulai dengan adegan karakter utama yang terbangun di sebuah aula mis
 
 ## 2. Navigasi Dunia dan Peta
 
+Setelah memilih karakter, pemain akan berada di titik persimpangan strategis (*Spawn Map*) seperti terlihat pada gambar.
 ![Spawn Area Navigation](https://media.discordapp.net/attachments/1467032167543476246/1467035450626801734/image.png?ex=697eeabb&is=697d993b&hm=f680bbcc0fe203a30caa203425914dc1c2cbcd2378cbb9ad4047bf4ced879c9b&=&format=webp&quality=lossless&width=1025&height=776)
 
-Setelah memilih karakter, pemain akan berada di titik persimpangan strategis (*Spawn Map*) seperti terlihat pada gambar di atas.
-![Spawn Area Navigation](https://media.discordapp.net/attachments/1467032167543476246/1467035067359694909/Screenshot_2026-01-31_120549.png?ex=697eea60&is=697d98e0&hm=9e7ff00c2ddd326cf41c352302e1504249511ab864473252ce07daa144eb874f&=&format=webp&quality=lossless&width=986&height=750)
 * **Ke Arah Kiri (Stage Hutan):** Menuju area hutan untuk berlatih melawan musuh lemah dan mengumpulkan modal awal.
+![Spawn Area Navigation](https://media.discordapp.net/attachments/1467032167543476246/1467035067359694909/Screenshot_2026-01-31_120549.png?ex=697eea60&is=697d98e0&hm=9e7ff00c2ddd326cf41c352302e1504249511ab864473252ce07daa144eb874f&=&format=webp&quality=lossless&width=986&height=750)
+![Spawn Area Navigation](https://media.discordapp.net/attachments/1467032167543476246/1467042722354434091/Screenshot_2026-01-31_121342.png?ex=697ef181&is=697da001&hm=336177915469051bce0cf3ef9cd1562395381cbe037e5c67c4338ab77a77a25f&=&format=webp&quality=lossless&width=985&height=750)
+
+* **Ke Arah Kanan (Kota Astera):** Menuju gerbang kota utama untuk mengakses toko, Dungeon Obelix dan fasilitas lainnya.
 ![Spawn Area Navigation](https://media.discordapp.net/attachments/1467032167543476246/1467035067002917038/Screenshot_2026-01-31_120515.png?ex=697eea60&is=697d98e0&hm=c2dd57def86314817ab0cf0656aded3839515395f762de21dff4931bd23bab52&=&format=webp&quality=lossless&width=989&height=750)
-* **Ke Arah Kanan (Kota Astera):** Menuju gerbang kota utama untuk mengakses toko dan fasilitas lainnya.
+![Spawn Area Navigation](https://media.discordapp.net/attachments/1467032167543476246/1467042722677264567/Screenshot_2026-01-31_121524.png?ex=697ef181&is=697da001&hm=e7393b4be2881af3ecc0b28e972ac01199b332307cbfbbde8ea145e43938d758&=&format=webp&quality=lossless&width=981&height=750)
+
 
 ---
 
