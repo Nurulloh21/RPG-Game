@@ -11,16 +11,21 @@
 ![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467033429760544840/Screenshot_2026-01-31_120357.png?ex=697ee8d9&is=697d9759&hm=6467fab586a88980c041b3271bc5c3d917ee4b536b7d2ca0ffabab4fd74e5c84&=&format=webp&quality=lossless&width=988&height=750)
 
 Permainan dimulai dengan adegan karakter utama yang terbangun di sebuah aula misterius. Sebelum memulai penjelajahan, pemain diwajibkan untuk memilih satu dari lima identitas tempur. Pemilihan ini akan menentukan statistik dasar dan gaya bermain utama karakter:
-![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034092439732254/Screenshot_2026-01-31_122558.png?ex=697ee977&is=697d97f7&hm=309ceaf38f7ea5f66b4498961eefb7c3b9ab458083f04754db982fadb4f40466&=&format=webp&quality=lossless&width=988&height=750)
+
 * **Zephyr (Magic Swordsman):** Petarung hibrida yang menyeimbangkan serangan fisik dan magis (HP 544, MP 117).
-![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034092762828961/Screenshot_2026-01-31_122623.png?ex=697ee977&is=697d97f7&hm=250684f06a6794512a4a09608df104a08269fca3ab6ec474168a5c81362e0bce&=&format=webp&quality=lossless&width=981&height=750)
+![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034092439732254/Screenshot_2026-01-31_122558.png?ex=697ee977&is=697d97f7&hm=309ceaf38f7ea5f66b4498961eefb7c3b9ab458083f04754db982fadb4f40466&=&format=webp&quality=lossless&width=988&height=750)
+
 * **Ragul (Martial Artist):** Berfokus pada ketahanan fisik dan seni bela diri dengan HP tertinggi (639).
-![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034093299568772/Screenshot_2026-01-31_122635.png?ex=697ee978&is=697d97f8&hm=410240e897f8043e738a9d91a1139b633306632b064370d0511c83705b37341e&=&format=webp&quality=lossless&width=981&height=750)
+![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034092762828961/Screenshot_2026-01-31_122623.png?ex=697ee977&is=697d97f7&hm=250684f06a6794512a4a09608df104a08269fca3ab6ec474168a5c81362e0bce&=&format=webp&quality=lossless&width=981&height=750)
+
 * **Perceval (Sorcerer):** Spesialis sihir murni dengan serangan magis tertinggi (MAT 29) namun pertahanan rendah.
-![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034093710737550/Screenshot_2026-01-31_122647.png?ex=697ee978&is=697d97f8&hm=08f4922ebfae42d18517a293883c9f0a042df0d4c64bf2d1b32ac0d84e495234&=&format=webp&quality=lossless&width=989&height=750)
+![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034093299568772/Screenshot_2026-01-31_122635.png?ex=697ee978&is=697d97f8&hm=410240e897f8043e738a9d91a1139b633306632b064370d0511c83705b37341e&=&format=webp&quality=lossless&width=981&height=750)
+
 * **Lynae (Knight):** Kelas pelindung (Tank) dengan pertahanan fisik yang kokoh.
-![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034094117322792/Screenshot_2026-01-31_122659.png?ex=697ee978&is=697d97f8&hm=d60d82e27e50417ced8548b999c4df7c30bdc4d62e87d255d40f2280cbc7ef7b&=&format=webp&quality=lossless&width=976&height=750)
+![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034093710737550/Screenshot_2026-01-31_122647.png?ex=697ee978&is=697d97f8&hm=08f4922ebfae42d18517a293883c9f0a042df0d4c64bf2d1b32ac0d84e495234&=&format=webp&quality=lossless&width=989&height=750)
+
 * **Arlena (Bandit):** Mengandalkan kecepatan (*Agility*) dan keberuntungan dalam *looting*.
+![Character Selection](https://media.discordapp.net/attachments/1467032167543476246/1467034094117322792/Screenshot_2026-01-31_122659.png?ex=697ee978&is=697d97f8&hm=d60d82e27e50417ced8548b999c4df7c30bdc4d62e87d255d40f2280cbc7ef7b&=&format=webp&quality=lossless&width=976&height=750)
 
 ---
 
