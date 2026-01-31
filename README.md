@@ -13,11 +13,11 @@ Permainan ini dikembangkan menggunakan:
 
 ### Tim Pengembang (Credits)
 Dibuat dengan penuh dedikasi oleh:
-* **Steven Nathanael**
-* **Putra Parlindungan**
-* **M. Nurulloh**
-* **M. Hafidz Putra**
-* **Joshua Natanael**
+* **Steven Nathanael / @StevNath**
+* **Putra Parlindungan / @PutraParlindungan**
+* **M. Nurulloh / @Nurulloh21**
+* **M. Hafidz Putra / @HFDZ-PTR**
+* **Joshua Natanael / @JoshuaImanuel**
 
 
 ---
