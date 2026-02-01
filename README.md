@@ -3,6 +3,7 @@
 ![Title Screen](https://media.discordapp.net/attachments/1467032167543476246/1467033579694329876/image.png?ex=697ee8fd&is=697d977d&hm=83c6b452232f67f7872870205769b09a0085b0bdda741d2ad2c5b3534201e5c6&=&format=webp&quality=lossless&width=1275&height=559)
 
 **[ITCH.IO](https://stevnath.itch.io/dungeon-dine-dash-astera)**
+**[Web Version](https://github.com/stevnath/Dungeon-Dine-And-Dash-Astera-Web-Version/)
 
 ---
 **Dungeon Dine & Dash: Astera** adalah permainan *Role-Playing Game* (RPG) berbasis giliran yang memadukan elemen eksplorasi *dungeon* klasik dengan simulasi manajemen ekonomi. Pemain akan mengendalikan karakter utama yang terjebak di dunia asing, di mana ia harus berburu monster, mengolah daging hasil buruan menjadi hidangan kuliner, dan membangun kekuatan tim untuk menaklukkan tantangan terbesar di Astera.
